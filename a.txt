@@ -7,3 +7,6 @@ funcion2
 modificacion 2
 funcion 3
 modificacion 3
+funcion 4
+funcion 5
+funcion 6
