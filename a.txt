@@ -10,3 +10,7 @@ modificacion 3
 modificacion 4
 modificacion 5
 modificacion 6
+funcion 4
+funcion 5
+funcion 6
+
