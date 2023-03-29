@@ -1,3 +1,6 @@
 [submodule "ejemplo_submodulo"]
 	path = ejemplo_submodulo
 	url = https://github.com/eQmz/ejemplo_submodulo.git
+[submodule "ejemplo_submodulo_2"]
+	path = ejemplo_submodulo_2
+	url = https://github.com/eQmz/ejemplo_submodulo_2.git
